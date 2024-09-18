@@ -1,6 +1,6 @@
 # 🎮 T I N K T Y P E 🎮
 
-![gamefinale](https://media.giphy.com/media/3ohhwp9H5wNppYJJxe/giphy.gif)
+![gamefinale](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlxZmh0aWEwc2xrMzl1M2JxOXlvbmZocGpmODYwM3d2cmd1Z3ZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufEAqdSsFBvkHzl7pT/giphy.gif)
 
 Welcome to **T I N K T Y P E**, a fast-paced typing game where your keyboard skills are put to the test! Are you ready to conquer the word rush and score big? Prove your typing prowess in this retro-style challenge! 🕹️✨
 
