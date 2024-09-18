@@ -38,18 +38,13 @@ T I N K T Y P E is a thrilling, arcade-style typing game where you type words ap
    ```bash
    git clone https://github.com/yourusername/gamefinale.git
    ```
-   
-2. Navigate to the game directory:
-   ```bash
-   cd gamefinale
-   ```
-   
-3. Install the dependencies:
+
+2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the game:
+3. Run the game:
    ```bash
    python gamefinale.py
    ```
