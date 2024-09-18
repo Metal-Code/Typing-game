@@ -1,7 +1,3 @@
-Here's a fun and visually appealing README for your typing game, using markdown elements and emojis to match the theme of a fast-paced, exciting word-typing game!
-
----
-
 # 🎮 T I N K T Y P E 🎮
 
 ![gamefinale](https://media.giphy.com/media/3ohhwp9H5wNppYJJxe/giphy.gif)
