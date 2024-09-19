@@ -36,7 +36,7 @@ T I N K T Y P E is a thrilling, arcade-style typing game where you type words ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gamefinale.git
+   git clone https://github.com/yourusername/Typing-game.git
    ```
 
 2. Install the dependencies:
