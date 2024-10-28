@@ -64,17 +64,6 @@ T I N K T Y P E is a thrilling, arcade-style typing game where you type words ap
 
 ---
 
-## 🌈 **Screenshots**
-
-### Game in Action 🎮
-
-![Screenshot](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
-
-### Paused Menu 🔄
-![Paused Menu](https://media.giphy.com/media/l4FGBAGK7ssjtWvFe/giphy.gif)
-
----
-
 ## 🔊 **Audio**
 
 The game features an 8-bit retro soundtrack with special sound effects for key actions like:
@@ -95,7 +84,7 @@ The game features an 8-bit retro soundtrack with special sound effects for key a
 ## 🎯 **Objective**
 
 - **Score Points** by typing words correctly before they escape the screen.
-- **Advance through Levels** to face more challenging words.
+- **Advance through Words** to face more challenging words.
 - **Beat your High Score** and become the ultimate typing master! 🏆
   
 ---
